@@ -5,7 +5,7 @@ Data Plot é um programa escrito em python para a construção de gráficos a pa
 
   
 
-![Description](Imagens%5Cimage1.png)
+![Description](Imagens/image1.png)
 
   
 
@@ -27,7 +27,7 @@ Ao clicar no botão “Selecionar arquivo”, uma janela de diálogo será abert
 
 Caso o arquivo selecionado não possa ser lido pelo programa, uma mensagem de erro será exibida:
 
-![Erro na leitura do arquivo](Imagens%5Cimage3.png)
+![Erro na leitura do arquivo](Imagens/image3.png)
 
   
 
@@ -37,19 +37,19 @@ Para que os dados sejam lidos, é necessário que o arquivo possua apenas númer
 
 *Arquivo incompatível pois não há apenas números*
 
-![enter image description here](Imagens%5Cimage2.png)
+![enter image description here](Imagens/image2.png)
 
   
 
 *Arquivo incompatível pois os dados se iniciam na segunda linha e não na primeira*
 
-![enter image description here](Imagens%5Cimage5.png)
+![enter image description here](Imagens/image5.png)
 
   
 
 *Arquivo compatível pois há apenas números e eles se iniciam na primeira linha*
 
-![enter image description here](Imagens%5Cimage4.png)
+![enter image description here](Imagens/image4.png)
 
   
 
@@ -59,7 +59,7 @@ Ao selecionar um arquivo válido para leitura, uma caixa de configuração irá 
 
   
 
-![enter image description here](Imagens%5Cimage7.png)
+![enter image description here](Imagens/image7.png)
 
   
 
@@ -67,7 +67,7 @@ Na parte superior da janela é mostrado o nome do arquivo selecionado (neste cas
 
   
 
-![enter image description here](Imagens%5Cimage6.png)
+![enter image description here](Imagens/image6.png)
 
   
 
@@ -87,14 +87,14 @@ As seguintes características gerais do gráfico podem ser configuradas pelo usu
 
   
 
-![enter image description here](Imagens%5Cimage9.png)
+![enter image description here](Imagens/image9.png)
 
   
 
 Ao clicar no botão Gerar gráfico, o gráfico com as características escolhidas será exibido na tela.
 
-![enter image description here](Imagens%5Cgrafico1.png)
+![enter image description here](Imagens/grafico1.png)
 
-![enter image description here](Imagens%5Cgrafico2.png)
+![enter image description here](Imagens/grafico2.png)
 
-![enter image description here](Imagens%5Cgrafico3.png)
+![enter image description here](Imagens/grafico3.png)
